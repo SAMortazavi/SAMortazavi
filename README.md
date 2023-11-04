@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Seyed Abolfazl Mortazavi!
 
-📚 Master's student at Sharif University of Technology 🎓 | Passionate about Deep Learning 🧠, Neuroscience 🌟, and Signal processing | Exploring the intersection of AI and brain science 🤖🧬 | Sharing code, research, and insights on GitHub 📦 | Let's collaborate and learn together! 🚀
+📚 Master's student at Sharif University of Technology 🎓 | Passionate about Deep Learning 🧠, Neuroscience 🌟, and Signal processing | Exploring the intersection of AI and brain science 🤖🧬 | Sharing code, research, and insights on GitHub 📦 | Let's collaborate and learn together! 🚀<br/>
+
 🧰 Toolbox <br/>
 <br/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='Python' width= 90px height=90px>
