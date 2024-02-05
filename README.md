@@ -6,6 +6,7 @@
 <br/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='Python' width= 90px height=90px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='VSCode' width= 90px height=90px>
+<img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='VSCode' width= 90px height=90px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg' alt='Tensorflow' width= 90px height=90px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg' alt='Pytorch' width= 90px height=90px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg' alt='Kaggle' width= 90px height=90px>
