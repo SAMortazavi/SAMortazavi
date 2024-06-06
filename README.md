@@ -3,6 +3,7 @@
 📚 Master's student at Sharif University of Technology 🎓 | Passionate about Deep Learning 🧠, Neuroscience 🌟, and Signal processing | Exploring the intersection of AI and brain science 🤖🧬 | Sharing code, research, and insights on GitHub 📦 | Let's collaborate and learn together! 🚀<br/>
 
 📧 Interested in viewing my resume for a potential position at your company? Since many of my projects are freelance and housed in private repositories, please feel free to reach out via email. I'll be glad to provide access for your review.<br/>
+Seyyed79Abolfazl@gmail.com
 
 
 🧰 Toolbox <br/>
