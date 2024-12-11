@@ -11,22 +11,22 @@ Are you interested in viewing my resume for a potential position at your company
 ---
 
 ### 🧰 Toolbox
-<br/>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-width: 1200px; margin: 0 auto;">
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='Python' width= 84px height=84px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='VSCode' width= 84px height=84px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='Jupyter' width= 84px height=84px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg' alt='Tensorflow' width= 84px height=84px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg' alt='Pytorch' width= 84px height=84px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg' alt='Kaggle' width= 84px height=84px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg' alt='OpenCV' width= 84px height=84px>
-<br/>
-<img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/MLFlow.svg' alt='MLflow' width= 84px height=84px>
-<img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/scikit-learn.svg' alt='Scikit-learn' width= 84px height=84px>
-<img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/pytorch-lightning-seeklogo.svg' alt='PyTorch Lightning' width= 84px height=84px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg' alt='MATLAB' width= 84px height=84px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' alt='LaTeX' width= 84px height=84px>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; max-width: 1200px; margin: 0 auto; padding: 10px;">
+  <!-- Icons with inline styles -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="Pytorch" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg" alt="OpenCV" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/SAMortazavi/SAMortazavi/blob/main/MLFlow.svg" alt="MLflow" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/SAMortazavi/SAMortazavi/blob/main/scikit-learn.svg" alt="Scikit-learn" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/SAMortazavi/SAMortazavi/blob/main/pytorch-lightning-seeklogo.svg" alt="PyTorch Lightning" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" style="width: 84px; height: 84px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+</div>
+
 
 ---
 
