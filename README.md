@@ -12,9 +12,9 @@ Are you interested in viewing my resume for a potential position at your company
 
 ### 🧰 Toolbox
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 90px; margin: 100px 0;">
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="84" height="84"></a>
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="84" height="84"></a>
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="84" height="84"></a>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="84" height="84" margin: 25px></a>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="84" height="84"margin: 25px></a>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="84" height="84"margin: 25px></a>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="109" height="109"></a> <!-- Increased size by 30% -->
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="Pytorch" width="109" height="109"></a> <!-- Increased size by 30% -->
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="84" height="84"></a>
