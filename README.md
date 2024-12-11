@@ -20,8 +20,8 @@ Are you interested in viewing my resume for a potential position at your company
 <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg' alt='Pytorch' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg' alt='Kaggle' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg' alt='OpenCV' width= 80px height=80px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='HTML5' width= 80px height=80px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='CSS3' width= 80px height=80px>
+<!-- <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='HTML5' width= 80px height=80px> -->
+<!-- <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='CSS3' width= 80px height=80px> -->
 <img src='https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg' alt='MATLAB' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' alt='LaTeX' width= 80px height=80px>
 </p>
