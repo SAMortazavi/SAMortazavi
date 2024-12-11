@@ -11,7 +11,6 @@ Are you interested in viewing my resume for a potential position at your company
 ---
 
 ### 🧰 Toolbox
-### 🧰 Toolbox
 <br/>
 <p align="center">
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='Python' width= 80px height=80px>
@@ -25,8 +24,6 @@ Are you interested in viewing my resume for a potential position at your company
 <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='CSS3' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg' alt='MATLAB' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' alt='LaTeX' width= 80px height=80px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg' alt='Scikit-learn' width= 80px height=80px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/lightning/lightning-original-wordmark.svg' alt='Lightning' width= 80px height=80px>
 </p>
 
 ---
