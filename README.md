@@ -28,7 +28,9 @@ Are you interested in viewing my resume for a potential position at your company
 <img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' alt='LaTeX' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='HTML5' width= 84px height=84px>
 </p>
-----
+
+---
+
 ### 📊 My GitHub Stats
 
 <p align="center">
