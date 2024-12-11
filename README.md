@@ -20,13 +20,12 @@ Are you interested in viewing my resume for a potential position at your company
 <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg' alt='Pytorch' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg' alt='Kaggle' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg' alt='OpenCV' width= 80px height=80px>
-<!-- <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='HTML5' width= 80px height=80px> -->
-<!-- <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='CSS3' width= 80px height=80px> -->
-<!-- <img src='https://brandfetch.com/mlflow.org?view=library&library=default&collection=logos&asset=idOeRd2gAI' alt='MLFlow' width= 80px height=80px> -->
+<img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/MLFlow.svg' alt='MLflow' width= 80px height=80px>
+<img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/scikit-learn.svg' alt='Scikit-learn' width= 80px height=80px>
+<img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/pytorch-lightning-seeklogo.svg' alt='PyTorch Lightning' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg' alt='MATLAB' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' alt='LaTeX' width= 80px height=80px>
 </p>
-
 ---
 
 ### 📊 My GitHub Stats
