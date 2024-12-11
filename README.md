@@ -16,14 +16,16 @@ Are you interested in viewing my resume for a potential position at your company
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='Python' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='VSCode' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='Jupyter' width= 80px height=80px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg' alt='Tensorflow' width= 80px height=80px>
-<img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg' alt='Pytorch' width= 80px height=80px>
+<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg' alt='TensorFlow' width= 80px height=80px>
+<img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg' alt='PyTorch' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg' alt='Kaggle' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg' alt='OpenCV' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='HTML5' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='CSS3' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg' alt='MATLAB' width= 80px height=80px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' alt='LaTeX' width= 80px height=80px>
+<img src='https://github.com/devicons/devicon/blob/master/icons/lightning/lightning-original.svg' alt='Lightning' width= 80px height=80px>
+<img src='https://github.com/devicons/devicon/blob/master/icons/mlflow/mlflow-original.svg' alt='MLflow' width= 80px height=80px>
 </p>
 
 ---
@@ -43,5 +45,4 @@ If you're working on projects involving AI, neuroscience, or signal processing, 
 
 ---
 
-<!--
-
+<!-- If you have suggestions to enhance this further, feel free to share! -->
