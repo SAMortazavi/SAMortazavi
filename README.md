@@ -11,7 +11,7 @@ Are you interested in viewing my resume for a potential position at your company
 ---
 
 ### 🧰 Toolbox
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 90px; margin: 20px 0;">
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="84" height="84"></a>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="84" height="84"></a>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="84" height="84"></a>
@@ -21,7 +21,7 @@ Are you interested in viewing my resume for a potential position at your company
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg" alt="OpenCV" width="84" height="84"></a>
 </p>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 20px 0;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 90px; margin: 20px 0;">
   <a href="#"><img src="https://github.com/SAMortazavi/SAMortazavi/blob/main/MLFlow.svg" alt="MLflow" width="84" height="84"></a>
   <a href="#"><img src="https://github.com/SAMortazavi/SAMortazavi/blob/main/scikit-learn.svg" alt="Scikit-learn" width="84" height="84"></a>
   <a href="#"><img src="https://github.com/SAMortazavi/SAMortazavi/blob/main/pytorch-lightning-seeklogo.svg" alt="PyTorch Lightning" width="109" height="109"></a> <!-- Increased size by 30% -->
