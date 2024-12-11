@@ -19,6 +19,7 @@ Are you interested in viewing my resume for a potential position at your company
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg' alt='Tensorflow' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg' alt='Pytorch' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg' alt='Kaggle' width= 84px height=84px>
+<br/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg' alt='OpenCV' width= 84px height=84px>
 <img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/MLFlow.svg' alt='MLflow' width= 84px height=84px>
 <img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/scikit-learn.svg' alt='Scikit-learn' width= 84px height=84px>
