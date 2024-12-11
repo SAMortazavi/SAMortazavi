@@ -12,8 +12,7 @@ Are you interested in viewing my resume for a potential position at your company
 
 ### 🧰 Toolbox
 <br/>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 40px; max-width: 1200px; margin: 0 auto;">
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; width: 100%; margin-bottom: 20px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-width: 1200px; margin: 0 auto;">
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='Python' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='VSCode' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='Jupyter' width= 84px height=84px>
@@ -22,14 +21,12 @@ Are you interested in viewing my resume for a potential position at your company
 <img src='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg' alt='Kaggle' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg' alt='OpenCV' width= 84px height=84px>
 <img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/MLFlow.svg' alt='MLflow' width= 84px height=84px>
-</div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; width: 100%;">
+<br/>
 <img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/scikit-learn.svg' alt='Scikit-learn' width= 84px height=84px>
 <img src='https://github.com/SAMortazavi/SAMortazavi/blob/main/pytorch-lightning-seeklogo.svg' alt='PyTorch Lightning' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg' alt='MATLAB' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg' alt='LaTeX' width= 84px height=84px>
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='HTML5' width= 84px height=84px>
-</div>
 </p>
 ----
 ### 📊 My GitHub Stats
