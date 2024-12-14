@@ -12,7 +12,7 @@ I'm enthusiastic about collaborating on projects that bridge the gap between art
 ## 🌟 Let's Connect!  
 - 📫 [Email](mailto:seyyed79abolfazl@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seyed-abolfazl-mortazavi-b50549224)
-- 
+
 ---
 ### 📧 Contact Me
 Are you interested in viewing my resume for a potential position at your company? Many of my projects are freelance and housed in private repositories. Please feel free to reach out via email—I'll be glad to provide access for your review.<br/>
