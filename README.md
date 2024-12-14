@@ -10,7 +10,7 @@ I'm a **Master's Student** in **Electrical Engineering** at **Sharif University 
 I'm enthusiastic about collaborating on projects that bridge the gap between artificial intelligence and human cognition. Let's learn, build, and innovate together! 🚀  
 
 ## 🌟 Let's Connect!  
-Are you interested in viewing my resume for a potential position at your company? Many of my projects are freelance and housed in private repositories. Please feel free to reach out via email pr Linkedin I'll be glad to provide access for your review.<br/>
+Are you interested in viewing my resume for a potential position at your company? Many of my projects are freelance and housed in private repositories. Please feel free to reach out via email or Linkedin I'll be glad to provide access for your review.<br/>
 - 📫 [Email](mailto:seyyed79abolfazl@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seyed-abolfazl-mortazavi-b50549224)
 
