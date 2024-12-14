@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Seyed Abolfazl Mortazavi  
 
-I'm a **Master's Student** at **Sharif University of Technology** 🎓 and an **AI Developer** with a passion for cutting-edge technologies and research. My work and studies focus on exploring the synergy between **Deep Learning**, **Neuroscience**, and **Signal Processing**.  
+I'm a **Master's Student** in **Electrical Engineering** at **Sharif University of Technology** 🎓 and an **AI Developer** with a passion for cutting-edge technologies and research. My work and studies focus on exploring the synergy between **Deep Learning**, **Neuroscience**, and **Signal Processing**.  
 
 - 🧠 **Researcher in EEG Signal Processing** | Sharif University of Technology  
 - 🤖 **AI Developer** | Driving innovative AI solutions in the industry  
@@ -11,9 +11,9 @@ I'm enthusiastic about collaborating on projects that bridge the gap between art
 
 ## 🌟 Let's Connect!  
 - 📫 [Email](mailto:seyyed79abolfazl@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/seyed-abolfazl-mortazavi-b50549224)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seyed-abolfazl-mortazavi-b50549224)
+- 
 ---
-
 ### 📧 Contact Me
 Are you interested in viewing my resume for a potential position at your company? Many of my projects are freelance and housed in private repositories. Please feel free to reach out via email—I'll be glad to provide access for your review.<br/>
 **Email:** Seyyed79Abolfazl@gmail.com<br/>
