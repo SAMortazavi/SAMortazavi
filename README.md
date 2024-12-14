@@ -1,5 +1,3 @@
-### Hi there 👋, I am Seyed Abolfazl Mortazavi!
-
 # 👋 Hi there! I'm Seyed Abolfazl Mortazavi  
 
 I'm a **Master's Student** at **Sharif University of Technology** 🎓 and an **AI Developer** with a passion for cutting-edge technologies and research. My work and studies focus on exploring the synergy between **Deep Learning**, **Neuroscience**, and **Signal Processing**.  
