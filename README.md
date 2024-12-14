@@ -30,6 +30,11 @@ Are you interested in viewing my resume for a potential position at your company
 </p>
 
 
+---
+
+<p align="center">
+  <img src="bernard.gif" alt="Dog Programming" width="300">
+</p>
 
 
 ---
