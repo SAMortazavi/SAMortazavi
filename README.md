@@ -1,4 +1,8 @@
-# 👋 Hi there! I'm Seyed Abolfazl Mortazavi  
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi! I'm Seyed Abolfazl Mortazavi <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
+
+![Total Views](https://views.whatilearened.today/views/github/hastagAB/hastagAB.svg)
+[![Linkedin: SAmortazavi](https://img.shields.io/badge/-SAMortazavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SAmortazavi/)](https://www.linkedin.com/in/SAMortazavi/)
+[![GitHub SAMortazavi](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/SAMortazavi)
 
 I'm a **Master's Student** in **Electrical Engineering** at **Sharif University of Technology** 🎓 and an **AI Developer** with a passion for cutting-edge technologies and research. My work and studies focus on exploring the synergy between **Deep Learning**, **Neuroscience**, and **Signal Processing**.  
 
