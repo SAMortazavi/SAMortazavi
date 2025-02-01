@@ -2,7 +2,7 @@
 
 ![Total Views](https://views.whatilearened.today/views/github/SAMortazavi/hastagAB.svg)
 [![Linkedin: SAmortazavi](https://img.shields.io/badge/-SAMortazavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SAmortazavi/)](https://www.linkedin.com/in/SAMortazavi/)
-[![GitHub SAMortazavi](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/SAMortazavi)
+[![GitHub SAMortazavi](https://img.shields.io/github/followers/SAMortazavi?label=follow&style=social)](https://github.com/SAMortazavi)
 
 I'm a **Master's Student** in **Electrical Engineering** at **Sharif University of Technology** 🎓 and an **AI Developer** with a passion for cutting-edge technologies and research. My work and studies focus on exploring the synergy between **Deep Learning**, **Neuroscience**, and **Signal Processing**.  
 
