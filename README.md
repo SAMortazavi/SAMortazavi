@@ -61,5 +61,5 @@ Are you interested in viewing my resume for a potential position at your company
 
 ### ✨ Let's Collaborate!
 If you're working on projects involving AI, neuroscience, or signal processing, feel free to reach out. Together, we can build something amazing!
-
 ---
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-SAMortazavi-red)](https://github.com/SAMortazavi)
