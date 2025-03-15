@@ -52,10 +52,11 @@ Are you interested in viewing my resume for a potential position at your company
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMortazavi&theme=github" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMortazavi&theme=github&cache_seconds=1800" alt="GitHub Activity Graph">
 </p>
+
 
 ---
 
