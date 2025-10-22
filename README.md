@@ -39,14 +39,6 @@ Are you interested in viewing my resume for a potential position at your company
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="84" height="84"></a>
 </p>
 
-
----
-
-<p align="center">
-  <img src="bernard.gif" alt="Dog Programming" width="300">
-</p>
-
-
 ---
 
 ### 📊 My GitHub Stats
