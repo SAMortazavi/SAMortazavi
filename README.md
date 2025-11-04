@@ -43,10 +43,9 @@ Are you interested in viewing my resume for a potential position at your company
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=dracula&count_private=true&" alt="Seyed's Github stat" />
-  <img src="https://streak-stats.demolab.com/?user=SAMortazavi&theme=dracula" alt="Seyed's stat" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMortazavi&layout=compact&theme=dracula&langs_count=12"/>
+  ![Seyed's Github stat](https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=dracula&count_private=true)
+  ![Streaks](https://streak-stats.demolab.com/?user=SAMortazavi&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMortazavi&layout=compact&theme=dracula&langs_count=12)
 </p>
-
 ---
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-SAMortazavi-red)](https://github.com/SAMortazavi)
