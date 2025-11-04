@@ -50,7 +50,7 @@ Are you interested in viewing my resume for a potential position at your company
 <!-- 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=Danial-Kord&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/Danial-Kord)
 
-  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=Danial-Kord&theme=dracula)](https://github.com/Danial-Kord)
+  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=SAMortazavi&theme=dracula)](https://github.com/SAMortazavi)
  -->
 </p>
 
