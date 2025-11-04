@@ -48,4 +48,3 @@ Are you interested in viewing my resume for a potential position at your company
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMortazavi&layout=compact&theme=dracula&langs_count=12"/>
 </p>
 ---
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-SAMortazavi-red)](https://github.com/SAMortazavi)
