@@ -49,11 +49,9 @@ Are you interested in viewing my resume for a potential position at your company
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMortazavi&layout=compact&theme=dracula&langs_count=12"/>
 <!-- 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=Danial-Kord&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/Danial-Kord)
-
   [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=SAMortazavi&theme=dracula)](https://github.com/SAMortazavi)
  -->
 </p>
-
 
 ---
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-SAMortazavi-red)](https://github.com/SAMortazavi)
