@@ -43,6 +43,7 @@ Are you interested in viewing my resume for a potential position at your company
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=dracula&count_private=true" alt="Seyed's Github stat" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMortazavi&layout=compact&theme=dracula&langs_count=12"/>
+  ![](https://github-readme-stats.vercel.app/api?username=SAMortazavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=SAMortazavi&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMortazavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
