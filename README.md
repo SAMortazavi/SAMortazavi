@@ -39,10 +39,6 @@ Are you interested in viewing my resume for a potential position at your company
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="84" height="84"></a>
 </p>
 
----
 
-### 📊 My GitHub Stats
-
-![Seyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=radical)
 
 
