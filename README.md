@@ -43,6 +43,6 @@ Are you interested in viewing my resume for a potential position at your company
 
 ### 📊 My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=radical)
+![Seyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMortazavi&show_icons=true&theme=radical)
 
 
