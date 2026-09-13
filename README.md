@@ -34,18 +34,35 @@ I care about two things in particular: **rigorous evaluation** and **shipping sy
 
 ## Production impact
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center"><b>2.97% WER</b><br/><sub>Persian ASR on evaluated speech</sub></td>
-<td width="33%" align="center"><b>1,000+ calls/day</b><br/><sub>production call-intelligence throughput</sub></td>
-<td width="33%" align="center"><b>&gt;97% F1</b><br/><sub>multilingual text localization</sub></td>
+<td width="33%" align="center">
+  <b>2.97% WER</b><br/>
+  <sub>Persian ASR on evaluated speech</sub>
+</td>
+<td width="33%" align="center">
+  <b>1,000+ calls/day</b><br/>
+  <sub>production call-intelligence throughput</sub>
+</td>
+<td width="33%" align="center">
+  <b>&gt;97% F1</b><br/>
+  <sub>multilingual text localization</sub>
+</td>
 </tr>
-</table>
-<table>
+
 <tr>
-<td width="33%" align="center"><b>87% Macro-F1</b><br/><sub>6-class speech emotion recognition</sub></td>
-<td width="33%" align="center"><b>0 BER</b><br/><sub>16-bit speech watermark on clean audio</sub></td>
-<td width="33%" align="center"><b>&lt;1% avg. BER</b><br/><sub>across evaluated audio perturbations</sub></td>
+<td width="33%" align="center">
+  <b>87% Macro-F1</b><br/>
+  <sub>6-class speech emotion recognition</sub>
+</td>
+<td width="33%" align="center">
+  <b>0 BER</b><br/>
+  <sub>16-bit speech watermark on clean audio</sub>
+</td>
+<td width="33%" align="center">
+  <b>&lt;1% avg. BER</b><br/>
+  <sub>across evaluated audio perturbations</sub>
+</td>
 </tr>
 </table>
 
