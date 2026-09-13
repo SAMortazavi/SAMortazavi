@@ -41,7 +41,6 @@ I care about two things in particular: **rigorous evaluation** and **shipping sy
 <td width="33%" align="center"><b>&gt;97% F1</b><br/><sub>multilingual text localization</sub></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td width="33%" align="center"><b>87% Macro-F1</b><br/><sub>6-class speech emotion recognition</sub></td>
