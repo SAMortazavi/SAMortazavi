@@ -34,7 +34,7 @@ I care about two things in particular: **rigorous evaluation** and **shipping sy
 
 ## Production impact
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td width="33%" align="center">
   <b>2.97% WER</b><br/>
