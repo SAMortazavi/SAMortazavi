@@ -1,218 +1,116 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:2563EB&height=220&section=header&text=Seyed%20Abolfazl%20Mortazavi&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Scientist%20%E2%80%A2%20Machine%20Learning%20Engineer%20%E2%80%A2%20Applied%20AI&descAlignY=57&descSize=18&animation=fadeIn" alt="header"/>
-</p>
+<!-- GitHub profile README · SAMortazavi -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+production+AI+from+raw+data+to+deployment;Speech+AI+%E2%80%A2+NLP%2FLLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+Signal+Processing;Turning+large-scale+data+into+measurable+product+impact" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1118,55:153D37,100:28C79A&height=200&section=header&text=Seyed%20Abolfazl%20Mortazavi&fontSize=38&fontColor=F6FAF8&fontAlignY=36&desc=AI%20Researcher%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descSize=17" alt="Seyed Abolfazl Mortazavi — AI Researcher and Machine Learning Engineer" width="100%" />
 
-<p align="center">
-  <a href="https://samortazavi.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/SAMortazavi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:Seyyed79abolfazl@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/SAMortazavi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+  **Neural signals → machine learning → real-world AI systems**
 
----
+  Research in computational neuroscience. Engineering across speech, language and computer vision.
 
-## About me
-
-I am a **Data Scientist and Machine Learning Engineer** working across the full ML lifecycle: large-scale data preparation, experimentation, evaluation, API development, and production deployment.
-
-My strongest domain experience is in **Speech & Audio AI**, with additional hands-on work in **NLP/LLMs, Computer Vision, statistical analysis, and neural signal processing**. I currently work in the **Speech Team at Shatel**, where I build and evaluate production AI systems for real-world telecom and call-center data.
-
-I care about two things in particular: **rigorous evaluation** and **shipping systems that actually get used**.
-
-- **Industry:** Data Science, Machine Learning, Applied AI, Speech AI
-- **Research:** Machine Learning, Neural Signal Processing, EEG, multimodal data
-- **Education:** M.Sc. Electrical Engineering (Bioelectric), Sharif University of Technology
-- **Open to:** opportunities in Iran, remote roles, contract work, and relocation opportunities across Europe
+  <p>
+    <a href="https://samortazavi.github.io/">Portfolio</a> ·
+    <a href="https://samortazavi.github.io/Resumes/Seyed_Abolfazl_Mortazavi_Academic_CV.pdf">Academic CV</a> ·
+    <a href="https://samortazavi.github.io/Resumes/Seyed_Abolfazl_Mortazavi_Resume.pdf">Industry Résumé</a> ·
+    <a href="https://www.linkedin.com/in/SAMortazavi">LinkedIn</a> ·
+    <a href="mailto:Seyyed79abolfazl@gmail.com">Email</a>
+  </p>
+</div>
 
 ---
 
-## Production impact
+### About
 
-<table width="100%" align="center">
-<tr>
-<td width="33%" align="center">
-  <b>2.97% WER</b><br/>
-  <sub>Persian ASR on evaluated speech</sub>
-</td>
-<td width="33%" align="center">
-  <b>1,000+ calls/day</b><br/>
-  <sub>production call-intelligence throughput</sub>
-</td>
-<td width="33%" align="center">
-  <b>&gt;97% F1</b><br/>
-  <sub>multilingual text localization</sub>
-</td>
-</tr>
+I'm an **AI Researcher / Data Scientist at Shatel**, and an **M.Sc. graduate in Electrical Engineering (Bioelectric) from Sharif University of Technology**. My work connects two worlds: **neural signal processing and computational neuroscience**, and **production machine learning for speech, language, and vision**.
 
-<tr>
-<td width="33%" align="center">
-  <b>87% Macro-F1</b><br/>
-  <sub>6-class speech emotion recognition</sub>
-</td>
-<td width="33%" align="center">
-  <b>0 BER</b><br/>
-  <sub>16-bit speech watermark on clean audio</sub>
-</td>
-<td width="33%" align="center">
-  <b>&lt;1% avg. BER</b><br/>
-  <sub>across evaluated audio perturbations</sub>
-</td>
-</tr>
-</table>
+I build end-to-end systems—from messy datasets and experimental design to modeling, evaluation, APIs, and deployed analytics. I'm interested in **PhD research, international research collaborations, and challenging AI/ML engineering roles**.
 
-### Selected industry work
-
-- **Call-center intelligence platform:** independently designed and delivered an end-to-end production workflow for multimodal call analysis, including speech recognition, acoustic emotion analysis, sentiment, tagging, conversation summarization, cross-talk, silence analysis, policy/keyword checks, and production APIs.
-- **Large-scale speech data:** processed and curated **hundreds of thousands of hours** of speech data and millions of conversational transcripts; approximately **50,000 hours** are currently used for model training.
-- **ASR:** owned data preparation, training, evaluation, and analysis; achieved **2.97% WER** on evaluated Persian speech and **8.02% WER** on noisy call-center audio.
-- **Multilingual OCR:** built preprocessing, image enhancement, text detection/localization, evaluation, and API layers for Persian/Arabic/English document OCR, with **>97% F1** for text localization.
-- **Robust speech watermarking:** developed the data generation, training, and evaluation pipeline for a **16-bit payload**, reaching **0 BER on clean audio** and **<1% average BER** across evaluated perturbations.
-
-> Public repositories show selected coursework, research, and independent projects. A significant part of my production work is private due to confidentiality and customer-data constraints.
-
----
-
-## What I work with
-
-| Area | Experience |
-|---|---|
-| **Data Science & ML** | EDA, feature engineering, supervised learning, classification, regression, statistical analysis, hypothesis testing, model selection and evaluation |
-| **Deep Learning** | PyTorch, PyTorch Lightning, TensorFlow, Hugging Face Transformers |
-| **Speech & Audio AI** | ASR, VAD, end-of-utterance detection, speech emotion recognition, audio preprocessing, augmentation, speech enhancement, robustness evaluation, watermarking |
-| **NLP & LLMs** | text classification, sentiment analysis, conversation analytics, summarization, prompt engineering, transformer-based models |
-| **Computer Vision** | image classification, segmentation, object detection, OCR, text localization, image registration, preprocessing and enhancement |
-| **Production & MLOps** | FastAPI, Docker, MLflow, TensorBoard, Git/GitHub, Linux, Conda |
-
-### Core stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-
-</p>
-
----
-
-## Selected public work
+### At a glance
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### [Image Classification Pipeline](https://github.com/SAMortazavi/Computational-Intelligence)
-Computer-vision classification pipeline with model development and evaluation, achieving **98.37% accuracy**.
-
-`Python` `PyTorch` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### [NLP Fake News Detection](https://github.com/SAMortazavi/Neuromatch-NLP)
-NLP classification project focused on detecting misinformation from text.
-
-`Python` `NLP` `Machine Learning`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Speech Enhancement Algorithm](https://github.com/SAMortazavi/Speech-Enhancement-Algorithm)
-Digital signal-processing implementation for speech-quality enhancement and noise reduction.
-
-`MATLAB` `DSP` `Speech`
-
-</td>
-<td width="50%" valign="top">
-
-### [EEG Signal Processing](https://github.com/SAMortazavi/EEG-Signal-Processing)
-Signal-processing and analysis work centered on EEG and neural data.
-
-`EEG` `Signal Processing` `MATLAB / Python`
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%"><strong>1st place</strong><br/><sub>iAAA 2026 · Speaker Identification<br/>200+ competing teams</sub></td>
+    <td align="center" width="25%"><strong>1,000+</strong><br/><sub>Calls/day processed<br/>Production QC</sub></td>
+    <td align="center" width="25%"><strong>~50,000 h</strong><br/><sub>Speech data used<br/>for model training</sub></td>
+    <td align="center" width="25%"><strong>#1 / 17</strong><br/><sub>M.Sc. cohort rank<br/>Sharif University</sub></td>
+  </tr>
 </table>
 
+### Research & academic work
+
+- **M.Sc. — Electrical Engineering (Bioelectric), Sharif University of Technology** · 2023–2025 · **GPA 19.02/20**, **rank 1/17**, thesis **20/20**.
+  - *Eye Tracking Using EEG Signals During Simultaneous Functional Magnetic Resonance Imaging*: EEG-based gaze decoding; handling simultaneous EEG–fMRI artifacts; time- and frequency-domain features; subject-specific ML evaluation. Research included out-of-scanner data from **20 participants** and preliminary in-scanner analysis.
+  - Best mean subject-specific accuracies among evaluated models: **99%** (passive), **94%** (three-class) and **~86%** (five-class). **Evaluation used within-participant held-out trials—not cross-participant generalization.**
+- **B.Sc. — Biomedical Engineering (Bioelectric), Amirkabir University of Technology** · 2019–2023 · **GPA 19.07/20**, **rank 1/121**, thesis **20/20**.
+  - Investigated age-related differences in **steady-state visual evoked potentials (SSVEPs)** through EEG signal analysis and statistical testing.
+- **Research contribution:** experimental design, human-memory research, and fMRI-related workflows with the Ghazizadeh Lab at Sharif University of Technology.
+
+**Manuscripts under review** *(not yet accepted or published)*
+
+1. **ZiCall: A Cascaded Persian Spoken Dialogue System for Intelligent Contact Centers** — under review at IKT 2026.
+2. **Beyond Silence: Persian End-of-Turn Detection Using Textual and Voice Activity Cues** — under review at *ABMIR*.
+
+**Mentoring:** 11 students mentored in total — **8 ongoing** (1 B.Sc., 6 M.Sc., 1 Ph.D.) and **3 completed B.Sc. theses**, graded **20/20, 19/20, and 20/20**. Areas include ML, neural signal processing, statistical evaluation and research methodology.
+
+### Production AI & engineering
+
+| Area | Selected work and measured outcomes |
+|:--|:--|
+| **Speech / ASR** | Data curation and training pipelines involving ~50,000 hours of training speech; **2.97% WER** on evaluated Persian speech and **8.02% WER** on noisy call-center speech. |
+| **Call-center intelligence** | Independently built and integrated a multimodal QC workflow processing **1,000+ calls/day**: ASR, emotion, call tagging, sentiment, conversation summaries, silence/cross-talk and API-based analytics. |
+| **Speech emotion** | Six-class audio emotion recognition with **87% macro-F1** on the evaluated dataset. |
+| **Document AI** | Persian/Arabic/English OCR preprocessing and text-localization pipelines with **>97% F1** for text localization. |
+| **Audio watermarking** | Evaluated a 16-bit synthesized-speech watermark: **0 BER** on clean audio and **<1% mean BER** across tested perturbations. |
+
+<sub>Results are task- and dataset-specific, not universal benchmarks. Much of the production implementation and data are private under confidentiality obligations.</sub>
+
+### Featured public repositories
+
+| Project | Focus |
+|:--|:--|
+| [EEG Signal Processing](https://github.com/SAMortazavi/EEG-Signal-Processing) | EEG analysis, preprocessing, signal-quality workflows. |
+| [Speech Enhancement Algorithm](https://github.com/SAMortazavi/Speech-Enhancement-Algorithm) | DSP-based noise reduction and speech enhancement in MATLAB. |
+| [Image Classification Pipeline](https://github.com/SAMortazavi/Computational-Intelligence) | PyTorch classification and evaluation; **98.37% accuracy** on the project dataset. |
+| [Medical Image Analysis & Processing](https://github.com/SAMortazavi/Medical-Image-Analysis-and-Processing) | Graduate-level medical image analysis and processing. |
+| [EMG Classification](https://github.com/SAMortazavi/EMG_Classification_Project) | Biosignal classification experiments. |
+
+[Explore all public repositories](https://github.com/SAMortazavi?tab=repositories)
+
+### Technical toolkit
+
+**ML & statistics:** Python · MATLAB · PyTorch · TensorFlow · scikit-learn · XGBoost · Pandas · NumPy · SciPy · statistical testing
+
+**Speech, NLP & vision:** ASR · VAD · end-of-turn detection · speaker identification · audio emotion · Hugging Face Transformers · LLM-assisted analytics · OpenCV · OCR
+
+**Engineering:** FastAPI · Docker · MLflow · TensorBoard · Git · Linux · model evaluation and deployment
+
+### GitHub activity
+
+<!-- Live profile-detail visualization; automatically adapts to GitHub light/dark themes. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMortazavi&amp;theme=github_dark&amp;animation=draw" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMortazavi&amp;theme=github&amp;animation=draw" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMortazavi&amp;theme=github" alt="GitHub contribution activity for SAMortazavi" width="100%" />
+  </picture>
+</p>
+
 <details>
-<summary><b>More public repositories</b></summary>
-<br/>
-
-- [Medical Image Analysis and Processing](https://github.com/SAMortazavi/Medical-Image-Analysis-and-Processing)
-- [EMG Classification Project](https://github.com/SAMortazavi/EMG_Classification_Project)
-- [RNN for NASA B0005](https://github.com/SAMortazavi/RNN-for-NASA-B0005)
-- [Digital Image Processing](https://github.com/SAMortazavi/Digital-Image-Processing)
-- [DSP Final Projects](https://github.com/SAMortazavi/DSP-Final-Projects)
-
+  <summary>More GitHub statistics</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAMortazavi&amp;theme=github_dark&amp;hide_logo=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAMortazavi&amp;theme=github&amp;hide_logo=true" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAMortazavi&amp;theme=github&amp;hide_logo=true" alt="GitHub statistics for SAMortazavi" width="360" />
+    </picture>
+  </p>
 </details>
 
----
-
-## Research & academic background
-
-**M.Sc. — Electrical Engineering (Bioelectric)**  
-Sharif University of Technology · **GPA: 19.02/20 · Rank: 1st/17**
-
-**Thesis:** *Eye Tracking Using EEG Signals During Simultaneous Functional Magnetic Resonance Imaging*  
-Developed subject-specific machine-learning pipelines for gaze decoding from EEG, including simultaneous EEG-fMRI preprocessing and statistical/model evaluation.
-
-**Selected results**
-- Passive viewing: **99% accuracy**
-- Three-class gaze direction: **94%**
-- Five-class gaze direction: **~86%**
-- Preliminary in-scanner results (1 participant): **85%** three-class and **100%** passive viewing
-
-I also mentor B.Sc., M.Sc., and Ph.D. students in machine learning, signal processing, statistics, and research methodology at the Computational Neuroscience Lab.
+<sub>GitHub activity reflects visible GitHub contributions, not the full scope of private industry or academic work. Charts are generated by an external service and may occasionally be unavailable.</sub>
 
 ---
 
-## Let's connect
-
-I am interested in **Data Scientist, Machine Learning Engineer, AI Engineer, and Applied AI** opportunities where I can work on technically challenging problems with real product impact.
-
-<p align="center">
-  <a href="https://samortazavi.github.io"><img src="https://img.shields.io/badge/View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/SAMortazavi"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:Seyyed79abolfazl@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <sub>Open to opportunities in Iran, remote collaboration, contract work, and relocation opportunities across Europe.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:2563EB&height=120&section=footer" alt="footer"/>
-</p>
+<div align="center">
+  <strong>Open to research collaborations, PhD opportunities, and AI/ML engineering work.</strong>
+  <p><a href="https://samortazavi.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/SAMortazavi">LinkedIn</a> · <a href="mailto:Seyyed79abolfazl@gmail.com">Get in touch</a></p>
+  <sub>Tehran, Iran · © 2026 Seyed Abolfazl Mortazavi</sub>
+</div>
